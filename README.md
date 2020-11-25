@@ -1,5 +1,5 @@
 # whether_point_in_3d_model
-JS check whether point is in 3d model.<br>
+JS check whether point is in 3d model.<br><br>
 By algorithm that "<b>Raycast once from the point to any direction, then check the intersects num, if is odd, the point is in the geometry.</b>"
 
 <img src="./about.png">
